@@ -65,8 +65,9 @@ const styles = StyleSheet.create({
     alignSelf: 'center',
     marginTop: 50,
   },
+  //Le cambie el fondo :)
   buttons: {
-    backgroundColor:"coral",
+    backgroundColor:"#13766e",
     alignItems: 'center',
     justifyContent: 'center',
     borderWidth: 1,
